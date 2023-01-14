@@ -1,0 +1,5 @@
+karl, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 21 Jan 2023, No
+karl, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2023, No
+john, Bootcamp, Complete Task 25, 09 Jan 2023, 10 Jan 2023, No
+joey, Make tea, Make the kids cheesy oatcakes, 09 Jan 2023, 09 Jan 2023, Yes
+karl, Collect kids, Fetch from nursury and take swimming, 10 Jan 2023, 10 Jan 2023, No

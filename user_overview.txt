@@ -1,0 +1,44 @@
+Total number of users:	13
+Total number of tasks:	5
+---------------------------------------
+admin has no assigned tasks.
+---------------------------------------
+User:        		karl
+Tasks:       		3
+% Assigned:  		60.0
+% Complete:  		33.33
+% Incomplete:		66.67
+% Overdue:   		33.33
+---------------------------------------
+nicola has no assigned tasks.
+---------------------------------------
+alice has no assigned tasks.
+---------------------------------------
+joel has no assigned tasks.
+---------------------------------------
+arthur has no assigned tasks.
+---------------------------------------
+User:        		john
+Tasks:       		1
+% Assigned:  		20.0
+% Complete:  		100.0
+% Incomplete:		0.0
+% Overdue:   		100.0
+---------------------------------------
+timmy has no assigned tasks.
+---------------------------------------
+arth has no assigned tasks.
+---------------------------------------
+test has no assigned tasks.
+---------------------------------------
+User:        		joey
+Tasks:       		1
+% Assigned:  		20.0
+% Complete:  		100.0
+% Incomplete:		0.0
+% Overdue:   		100.0
+---------------------------------------
+james has no assigned tasks.
+---------------------------------------
+karlos has no assigned tasks.
+---------------------------------------

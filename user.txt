@@ -1,0 +1,13 @@
+admin, adm1n
+karl, kar1
+nicola, nico1a
+alice, a1ice
+joel, joel1
+arthur, arthur1
+john, john1
+timmy, t1mmy
+arth, arth1
+test, test1
+joey, joey1
+james, james1
+karlos, kar1os
