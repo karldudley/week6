@@ -63,6 +63,8 @@ def file_entry():
 def file_out_print(result):
     if result == -1:
         print("\n"+"This line contained an incorrect operator. Please check file."+"\n")
+    elif result == -2:
+        print("\n"+"It is not possible to divide by zero."+"\n")
     else:
         print("\n"+result+"\n")
         with open("calculator_history.txt", "a") as file:
@@ -80,7 +82,11 @@ def do_calculation(values):
     elif operator == "*":
         answer = num1 * num2
     elif operator == "/":
-        answer = num1 / num2
+        # deal with divide by zero error
+        if num2 == 0:
+            return -2
+        else:
+            answer = num1 / num2
     else:
         return -1
 
