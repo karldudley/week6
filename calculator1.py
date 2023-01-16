@@ -32,8 +32,13 @@ while True:
         answer = num1 * num2
         break
     elif operator == "/":
-        answer = num1 / num2
-        break
+        # deal with divide by zero error
+        if num2 == 0:
+            print("You can not divide by zero, please choose another operator")
+            continue
+        else:
+            answer = num1 / num2
+            break
     else:
         print("You entered an incorrect operator, please try again")
 
